@@ -1,0 +1,37 @@
+body{
+    background-image: url(611491.jpg);
+}
+
+h1{
+    font-family: monospace;
+    text-align: center;
+    color: rgb(255, 0, 128);
+}
+
+h2{
+    color: rgb(255, 125, 190);
+}
+
+h3{
+    text-align: justify;
+    color: rgb(255, 160, 207);
+}
+
+.big{
+    font-size: 35px;
+}
+
+.linea{
+    text-decoration: underline;
+}
+ul{
+    font-family: monospace;
+    color: rgb(183, 0, 255);
+    font-size: 25px;
+}
+.Albumtext{
+    text-align: left;
+    color: rgb(255, 160, 207); 
+    background-color: black;
+    font-size: 15px;
+}
